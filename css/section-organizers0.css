@@ -110,13 +110,32 @@
 
 /* Sponsors and Partners */
 
+.osu-sponsor-title {
+  margin-bottom: 12px;
+}
+
+.osu-sponsor-list {
+  margin-left: 30px;
+  margin-bottom: 10px;
+}
+
+.osu-sponsor-list li {
+  margin-bottom: 3px;
+}
+
+.osu-sponsor-list li a {
+  font-size: 16px;
+  color: rgb(186, 1, 1);
+  line-height: 1.5;
+}
+
 .sponsors-div {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  margin: 10px 0 50px 0;
+  margin: 0 0 30px 0;
 }
 
 .links-to-sponsors {

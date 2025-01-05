@@ -1,0 +1,6 @@
+# Files to ignore
+img/profile-pics.psd
+img/schedule-table.docx
+
+# Folders to ignore
+img/raw/

@@ -74,6 +74,17 @@
   line-height: 1.5;
 }
 
+.purpose-list {
+  margin-top: 10px;
+  margin-left: 25px;
+  margin-bottom: 10px;
+}
+
+.purpose-list li {
+  color: rgb(80, 80, 80);
+  line-height: 1.5;
+}
+
 
 /* Mobile compatibility */
 
